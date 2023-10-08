@@ -1,5 +1,5 @@
 def call(){
-    sh "echo Bonjour";
+    sh "echo Bonjour les gens";
 }
 
 
